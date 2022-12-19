@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASR.RU</title>
+    
+</head>
+<ul>
+    <li> <a class="active" href="Apteka.html">Главная</a></li>
+     <li><a href="issl.html">Исследование</a></li>
+     <li><a href="contact.html">Горячая линия</a></li>
+     <li><a href="About.html">О компании</a></li>
+   
+</ul>
+</head>
+<style> ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(150, 222, 34);
+}
+</style>
+
+
+<body style="background-image: url(PH.png)">
+    
+    <a href="#" class="underline-one">
+<h1 align="center" style="color: rgb(8, 132, 227)">ASR</h1>
+    </a>
+
+    <h3 align="center" style="color: rgb(192, 58, 58)"> Мировой лидер по продажам Фармацевтических препоратов</h3>
+    <p>
+        <a style="color: rgb(207, 93, 93);" href="Ж.html">Жаропонижающие</a><br>
+        <a  style="color: rgb(207, 93, 93);"href="О.html">Обезбаливающие</a><br>
+        <a style="color: rgb(207, 93, 93);"href="П.html">Противовирусные</a>
+    </p>
+    
+    
+</body>
+
+
+    
+
+
+</html>
